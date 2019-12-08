@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Move Aarhus",
+    "description": "",
+    "home_page_url": "https://valerijaa.github.io/Move-Aarhus",
+    "feed_url": "https://valerijaa.github.io/Move-Aarhus/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Valerija"
+    },
+    "items": [
+        {
+            "id": "https://valerijaa.github.io/Move-Aarhus/test.html",
+            "url": "https://valerijaa.github.io/Move-Aarhus/test.html",
+            "title": "Test",
+            "author": {
+                "name": "Valerija"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-12-08T14:38:27+01:00",
+            "date_modified": "2019-12-08T14:38:27+01:00"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Move Aarhus</title>
+    <link href="https://valerijaa.github.io/Move-Aarhus/feed.xml" rel="self" />
+    <link href="https://valerijaa.github.io/Move-Aarhus" />
+    <updated>2019-12-08T14:43:29+01:00</updated>
+    <author>
+        <name>Valerija</name>
+    </author>
+    <id>https://valerijaa.github.io/Move-Aarhus</id>
+
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Valerija</name>
+        </author>
+        <link href="https://valerijaa.github.io/Move-Aarhus/test.html"/>
+        <id>https://valerijaa.github.io/Move-Aarhus/test.html</id>
+
+        <updated>2019-12-08T14:38:27+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
